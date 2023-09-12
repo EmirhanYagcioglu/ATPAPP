@@ -18,3 +18,9 @@ As of now, it is possible to establish a two way connection between the app and 
 - UART 
 - 115200 baud
 - 4-byte long data packets
+
+### 9/12/2023 ver 0.1
+Full command enabled version.
+- Now full commands are sendable to KL25z
+- Source code reshuffle & beautification
+- Added command interpretor
